@@ -1,0 +1,1 @@
+# Karbon-Ayak-zi-Hesaplama
