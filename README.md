@@ -1,1 +1,1 @@
-# Karbon-Ayak-zi-Hesaplama
+# Karbon-Ayak-izi-Hesaplama
