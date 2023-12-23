@@ -20,10 +20,16 @@ sorular = [
     "Motorlu taşıtlara harcanan miktar (TL)?",
     "Mobilyalara harcanan miktar (TL)?",
     "Otel ve restoranlara harcanan miktar (TL)?",
-    "Eğitime harcanan miktar (TL)?"
+    "Eğitime harcanan miktar (TL)?",
+    "Ayda kaç kilogram et tüketiyorsunuz (KG)?",
+    "Aylık ortalama ne kadar kağıt tüketiyorsunuz (kg)?",
+    "Yılda kaç kilometre uçakla seyahat ediyorsunuz (km)?",
+    "Aylık kaç km toplu taşıma kullanıyorsunuz (km)?",
+    "Haftada kaç kilo fast food tüketiyorsunuz (kg)?",
+    "Yıllık kaç kilogram odun kullanıyorsunuz (kg)?"
 ]
 
-katsayilar = [0.011, 0.02, 1.5, 0.02, 0.15, 0.1, 0.003, 0.02, 0.05, 0, 1.0, 0.07, 0.02, 0.015, 0.1, 0.05, 0.2, 0.15, 0.1, 0.04, 0.15, 0.1]
+katsayilar = [0.011, 0.02, 1.5, 0.15, 0.1, 0.02, 0.05, 1.0, 0.07, 0.02, 0.015, 0.1, 0.05, 0.2, 0.15, 0.1, 0.04, 0.15, 0.1, 1.5, 0.7, 2.5, 1.2, 0.9, 0.1]
 
 # Kullanıcıdan cevapları al
 cevaplar = []
